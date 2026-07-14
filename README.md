@@ -6,9 +6,9 @@ A modern and clean WordPress theme built for a content-focused website with a po
 
 ### Home Page
 ![WordPress Theme - Home](UI1.PNG)
-![WordPress Theme - Home](/imgs/screenshots/UI2.PNG)
-![WordPress Theme - Home](/imgs/screenshots/UI3.PNG)
-![WordPress Theme - Home](/imgs/screenshots/UI4.PNG)
+![WordPress Theme - Home](UI2.PNG)
+![WordPress Theme - Home](UI3.PNG)
+![WordPress Theme - Home](UI4.PNG)
 
 ## Overview
 

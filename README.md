@@ -2,6 +2,14 @@
 
 A modern and clean WordPress theme built for a content-focused website with a polished layout, custom widgets, and responsive design. This project is designed to be easy to understand, extend, and customize for personal or professional use.
 
+## Project Preview
+
+### Home Page
+![WordPress Theme - Home](/imgs/screenshots/UI1.PNG)
+![WordPress Theme - Home](/imgs/screenshots/UI2.PNG)
+![WordPress Theme - Home](/imgs/screenshots/UI3.PNG)
+![WordPress Theme - Home](/imgs/screenshots/UI4.PNG)
+
 ## Overview
 
 Elzero is a custom WordPress theme that includes:
